@@ -384,9 +384,9 @@ spring.datasource.password=your_password
 
 The application supports the following roles:
 
-ROLE_USER
-ROLE_SELLER
-ROLE_ADMIN
+- ROLE_USER
+- ROLE_SELLER
+- ROLE_ADMIN
 
 Each role has different permissions and access levels.
 
