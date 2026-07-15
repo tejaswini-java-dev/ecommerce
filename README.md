@@ -194,6 +194,7 @@ E-Commerce-Management-System/
 │
 ├── README.md
 └── .gitignore
+```
 ---
 
 # 📸 Application Screenshots
@@ -300,6 +301,7 @@ E-Commerce-Management-System/
 
 ```bash
 git clone https://github.com/tejaswini-java-dev/ecommerce.git
+```text
 
 # ⚙️ Backend Setup
 
