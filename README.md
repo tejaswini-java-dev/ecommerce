@@ -300,7 +300,6 @@ E-Commerce-Management-System/
 
 ```bash
 git clone https://github.com/tejaswini-java-dev/ecommerce.git
----
 
 # ⚙️ Backend Setup
 
